@@ -1,0 +1,17 @@
+﻿{
+  "Descriptor": {
+    "UId": "3e1d6954-8992-3c77-a0f1-4a50c3df0497",
+    "Name": "DevClassic",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1718770128000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/DevClassic.csproj",
+    "DependsOn": [
+      {
+        "UId": "fe1effeb-74f2-42c5-b5e1-dfe0313b86bf",
+        "PackageVersion": "7.8.0",
+        "Name": "Studio"
+      }
+    ]
+  }
+}
