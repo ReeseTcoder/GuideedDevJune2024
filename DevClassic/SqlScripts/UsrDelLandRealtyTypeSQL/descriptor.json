@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "7a675eac-8003-742a-f8de-6011215edef7",
+    "Name": "UsrDelLandRealtyTypeSQL",
+    "DBEngineType": 0,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1718937153000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}
